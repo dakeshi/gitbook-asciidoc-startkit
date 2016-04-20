@@ -11,6 +11,10 @@ author2<author2@email>
 * Inter document reference test with <<inter_doc_ref_test#finalStep, move to finalStep section>>
 If you click this link, you will move to the specific section in inter_doc_ref_test.adoc file
 
+* image with center align
+
+image::../images/editor_new_article.png[editor_new_article,300,600,align="center"]
+
 * source code with description
 
 source code
