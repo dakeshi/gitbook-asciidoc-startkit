@@ -8,7 +8,7 @@ author1<author1@email>;
 author2<author2@email>
 ....
 
-* Inter document reference test with <<inter_doc_ref_test#finalStep, move to finalStep section>>
+* Inter document reference test with <<sample#finalStep, move to finalStep section>>
 If you click this link, you will move to the specific section in inter_doc_ref_test.adoc file
 
 * image with center align
