@@ -1,0 +1,49 @@
+= inter doc ref test
+
+This is inter documents reference testing
+
+== step2
+nice step2
+
+== st3
+nice st3
+
+== st4
+nice st4
+
+== st5
+....
+nice st5
+nice
+nice
+
+
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+nice st5
+....
+
+== [[finalStep]] finalStep
+hi. succuess.
