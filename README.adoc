@@ -1,7 +1,30 @@
-# Introduction
+= Introduction
 
 When you create a new book in GitBook, you can meet your book which is based on Markdown.
 So, if you want to write with AsciiDoc format, you will need to some works.
 This project provides the default structure to start your book with Asciidoc format.
 
-Enjoy with AsciiDoc and GitBook. 
+Enjoy with AsciiDoc and GitBook.
+
+== Usage
+
+. Download startkit repo
+
+. Create new git repo with your account
+.. select .gitignore for gitbook
+.. uncheck create README.md file
+
+. Upload startkit files into your repo
+* chapters folder
+* images folder
+* REAME.adoc, SUMMARY.adoc, book.json
+
+. Create a new book in gitbook
+
+. Select GitHub
+
+. Link your GitHub
+.. Choose your repo
+
+. After your book is created, move to your setting page
+.. Click `Add webhook` button 
