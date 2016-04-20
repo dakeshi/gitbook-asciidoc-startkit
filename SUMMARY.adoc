@@ -2,5 +2,5 @@
 
 . link:README.adoc[Introduction]
 . link:chapters/start_with_asciidoc.adoc[Start with AsciiDoc]
-.. link:chapters/asciidoc_template.adoc[asciidoc_template]
-.. link:chapters/inter_doc_ref_test.adoc[inter_doc_ref_test]
+.. link:chapters/asciidoc_template.adoc[asciidoc template]
+.. link:chapters/inter_doc_ref_test.adoc[inter doc ref test]
